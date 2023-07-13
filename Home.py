@@ -12,7 +12,6 @@ st.markdown("""
 <style>
 .css-nqowgj.edgvbvh3 {visibility: hidden;}           
 .css-h5rgaw.egzxvld1 {visibility: hidden;}
-.styles_terminalButton__JBj5T {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
